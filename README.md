@@ -1,4 +1,4 @@
-### Hi there 👋
+### 저장고
 
 <!--
 **Hoon34/hoon34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://img.shields.io/badge/Naver-#03C75A?style=flat-square&logo=Android&logoColor=white"/>
