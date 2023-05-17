@@ -1,4 +1,5 @@
 ### 저장고
+What I learned and studied in this space.
 
 <!--
 **Hoon34/hoon34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
