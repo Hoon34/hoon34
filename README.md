@@ -1,7 +1,7 @@
 ### 🫙저장고
 ✍️ What I learned and studied is in this space.
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" /> detra1714@gmail.com
+![mail_FILL0_wght400_GRAD0_opsz48](https://github.com/Hoon34/hoon34/assets/76989145/0f4a618a-7497-4d88-8b1d-9434ee986664) detra1714@gmail.com
 
 <!--
 **Hoon34/hoon34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
